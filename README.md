@@ -1,5 +1,4 @@
 # ERIS-Earthquake-Digital-Twin-AWS-Hackathon
-# ERIS-Earthquake-Digital-Twin-AWS-Hackathon
 AI-driven Earthquake Risk Intelligence System for Mumbai using Multi-modal precursors and XAI
 
 ERIS: Earthquake Risk Intelligence System 🌍🏛️ A Digital Twin for Mumbai’s Seismic Resilience https://eris-earthquake-digital-twin-aws-hackathon-dyt58hhtldddvd7dji2.streamlit.app/
